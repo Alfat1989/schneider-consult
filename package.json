@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "parcel": "^2.7.0"
+  },
+  "name": "schneider-consult",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /schneider-consult/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfat1989/schneider-consult.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfat1989/schneider-consult/issues"
+  },
+  "homepage": "https://github.com/Alfat1989/schneider-consult"
+}
